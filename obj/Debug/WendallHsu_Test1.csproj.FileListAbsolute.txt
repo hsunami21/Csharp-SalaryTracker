@@ -1,0 +1,12 @@
+C:\Users\Wendall\Desktop\WendallHsu_Test1\WendallHsu_Test1\bin\Debug\WendallHsu_Test1.exe.config
+C:\Users\Wendall\Desktop\WendallHsu_Test1\WendallHsu_Test1\bin\Debug\WendallHsu_Test1.exe
+C:\Users\Wendall\Desktop\WendallHsu_Test1\WendallHsu_Test1\bin\Debug\WendallHsu_Test1.pdb
+C:\Users\Wendall\Desktop\WendallHsu_Test1\WendallHsu_Test1\obj\Debug\WendallHsu_Test1.csprojResolveAssemblyReference.cache
+C:\Users\Wendall\Desktop\WendallHsu_Test1\WendallHsu_Test1\obj\Debug\WendallHsu_Test1.Form1.resources
+C:\Users\Wendall\Desktop\WendallHsu_Test1\WendallHsu_Test1\obj\Debug\WendallHsu_Test1.Properties.Resources.resources
+C:\Users\Wendall\Desktop\WendallHsu_Test1\WendallHsu_Test1\obj\Debug\WendallHsu_Test1.csproj.GenerateResource.Cache
+C:\Users\Wendall\Desktop\WendallHsu_Test1\WendallHsu_Test1\obj\Debug\WendallHsu_Test1.exe
+C:\Users\Wendall\Desktop\WendallHsu_Test1\WendallHsu_Test1\obj\Debug\WendallHsu_Test1.pdb
+C:\Users\Wendall\Desktop\WendallHsu_Test1\bin\Debug\WendallHsu_Test1.exe.config
+C:\Users\Wendall\Desktop\WendallHsu_Test1\obj\Debug\WendallHsu_Test1.exe
+C:\Users\Wendall\Desktop\WendallHsu_Test1\obj\Debug\WendallHsu_Test1.pdb
